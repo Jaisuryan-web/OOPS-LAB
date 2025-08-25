@@ -1,3 +1,4 @@
+// Program: Scoreboard Management with Exception Handling in Java
 import java.util.Scanner;
 
 public class Scoreboard {
@@ -24,4 +25,5 @@ public class Scoreboard {
             scanner.close();
         }
     }
+
 }
